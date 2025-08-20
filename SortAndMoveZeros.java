@@ -8,7 +8,7 @@ Given an integer array containing some zero elements,
 
 ------------------------------------------------------
 Input Format:
-------------------------------------------------------
+------------------------------------------------------ 
 - Hardcoded array inside main function (modifiable)
   Example: {1, 3, 2, 0, 4, 0, 1}
 
