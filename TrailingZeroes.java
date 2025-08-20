@@ -11,7 +11,7 @@ Input:
 Enter number of trailing zeroes: 5
 
 Output:
-Smallest number whose factorial has at least 5 trailing zeroes is: 25
+Smallest number whose factorial has at least 5 trailing zeroes is: 25 
 */
 
 import java.util.Scanner;
