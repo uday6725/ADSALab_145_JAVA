@@ -3,7 +3,7 @@ Problem Statement:
 Implement fast power exponentiation to calculate x^n (x raised to the power n) in O(log n) time.
 
 Approach:
-- If exponent n is odd → ans *= x; n--
+- If exponent n is odd → ans *= x; n-- 
 - If exponent n is even → x = x * x; n /= 2
 - If n is negative → return 1 / ans at the end
 - Uses loop-based exponentiation by squaring for efficiency.
