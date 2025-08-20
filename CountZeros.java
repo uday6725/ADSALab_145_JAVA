@@ -1,12 +1,12 @@
 /*
----------------------------------------------
+--------------------------------------------
 Problem Statement:
 ---------------------------------------------
 Given a sorted binary array (consisting of only 0s and 1s),
 count the number of zeros using an efficient approach (binary search).
 The array is sorted in non-increasing order (1s first, then 0s).
 
----------------------------------------------
+--------------------------------------------
 Input Format:
 ---------------------------------------------
 - First line: An integer n (size of the array)
