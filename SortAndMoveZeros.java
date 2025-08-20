@@ -1,7 +1,7 @@
 /*
-------------------------------------------------------
+-----------------------------------------------------
 Problem Statement:
-------------------------------------------------------
+-----------------------------------------------------
 Given an integer array containing some zero elements,
 1. First sort the array using the Merge Sort algorithm.
 2. Then move all zero elements to the end while maintaining the order of non-zero elements.
