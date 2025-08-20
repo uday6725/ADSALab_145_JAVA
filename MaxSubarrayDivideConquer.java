@@ -2,8 +2,8 @@
  Problem: Maximum Subarray (Divide & Conquer)
  Description: Find contiguous subarray with largest sum (Divide & Conquer version).
  Input: [-2, 1, -3, 4, -1, 2, 1, -5, 4]
- Output: 6 (subarray [4, -1, 2, 1])
-*/
+ Output: 6 (subarray [4, -1, 2, 1]) 
+*/ 
 
 public class MaxSubarrayDivideConquer {
 
